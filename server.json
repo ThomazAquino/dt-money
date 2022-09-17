@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
+    },
+    {
+      "description": "asas",
+      "price": 23432,
+      "category": "as",
+      "type": "income",
+      "createdAt": "2022-09-17T20:35:58.316Z",
+      "id": 7
     }
   ]
 }
